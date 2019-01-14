@@ -1,0 +1,19 @@
+.header{
+	background-image: 'https://www.gannett-cdn.com/presto/2019/01/12/PIND/f696bd4d-75d0-488b-9072-2075685dc9b2-AP_19012667275838.jpg?crop=4919,2767,x0,y390&width=3200&height=1680&fit=bounds';
+	position: relative;
+	width: 100%;
+	
+}
+
+h1{
+	text-align: center;
+	font-size: 90px;
+	font-weight: bold;
+	padding: 90px 0 20px 0; 
+}
+
+h2{
+	text-align: center;
+	font-size: 25px;
+	padding-bottom: 40px;
+}
